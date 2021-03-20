@@ -1,0 +1,17 @@
+{
+"companyName": "Grateful Games",
+"productName": "Galaxy Shooter Pro",
+"productVersion": "1.1",
+"dataUrl": "WebGL(Shader).data.unityweb",
+"wasmCodeUrl": "WebGL(Shader).wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGL(Shader).wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "WebGL(Shader).jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.21f1"
+}
